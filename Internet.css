@@ -1,0 +1,239 @@
+*{
+    margin:0px;
+    padding: 0px;
+    
+}
+#wrapper{
+    width: 970px;
+    min-height: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+h5{
+    display: inline-block;
+    color: #474747;
+    font-size: 36px;
+    font-weight: normal;
+    vertical-align: top;
+    margin-top: 28px;
+    
+}
+h5>span{
+    color: #22659e;
+}
+h4{
+    background-color: #3c76a6; 
+    color: white;
+    font-weight: normal;
+    width: 950px;
+    text-align: center;
+    padding: 10px;
+    text-align: left;
+    font-size: 28px;
+    margin-top: -9px;
+}
+#leftcolumn{
+    background-color: #e8e8e8;
+    min-height: 500px;
+    width: 200px;
+    position: absolute;
+}
+#rightcolumn{
+    background-color: #e8e8e8;
+    min-height: 500px;
+    width: 970px;
+}
+#leftcolumn>h3{
+    color: black;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: 10px;
+    font-size: 13px;
+}
+.red>span{
+    color: red;
+}
+.blue>span{
+    color: #22659e;
+}
+.bluebutton{
+    background-color: #4a85b5;
+    width: 160px;
+    height: 7px;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 6px 10px 12px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.orangebutton{
+    background-color: #ee8300;
+    width: 160px;
+    height: 7px;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 6px 10px 12px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.grayline{
+    background-color: #b1b1b1;
+    height: 1px;
+    width: 178px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.ninja{
+    position: relative;
+}
+.image1{
+    width: 178px;
+    height: 250px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.ninja>p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    top:4px;
+    left: -9px;
+    padding: 36px;
+}
+.image2{
+    width: 75px;
+    height: 100px;
+    position: absolute;
+    top: 112px;
+    left:55px;
+}
+.lightbluebutton{
+    background-color: #26c7df;
+    width: 131px;
+    height: 7px;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 6px 10px 12px;
+    margin-top: 10px;
+    margin-left: 5px;
+    position: absolute;
+    bottom: 25px;
+    left: 14px;
+
+}
+.home{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 202px;
+    margin-top: 15px;
+}
+#rightcolumn>p{
+    position: absolute;
+    color: #4b7faa;
+    font-size: 18px;
+    margin-left: 224px;
+    margin-top: 15px;
+}
+#rightcolumn>h3{
+    color: #838383;
+    font-size: 10px;
+    position: absolute;
+    left: 826px;
+}
+.phone{
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    margin-left: 789px;
+    margin-top: 15px;
+}
+#rightcolumn>h2{
+    color:#1796ab;
+    position: absolute;
+    font-size: 21px;
+    margin-left: 830px;
+    margin-top: 18px;
+}
+#rightcolumn>h1{
+    color: #838383;
+    font-size: 10px;
+    position: absolute;
+    left: 826px;
+    margin-top: 50px;
+}
+.grayline2{
+    background-color: #b1b1b1;
+    height: 1px;
+    width: 754px;
+    margin-top: 72px;
+    margin-left: 201px;
+    position: absolute; 
+}
+.grayline2>h2{
+    color: #3672a4;
+    font-size: 16px;
+    margin-top: 5px;
+}
+.grayline2>p{
+    font-size: 13px;
+}
+.grayline2>ul>li{
+   font-size: 13px; 
+   margin-left: 36px;
+}
+.grayline2>ul>li>span{
+    color: #33adbf;
+}
+.server{
+    width: 244px;
+    height: 82px;
+    margin-left: 215px;
+    margin-top: 10px;
+}
+.grayline2>ol{
+    font-size: 13px;
+    margin-left: 36px;
+}
+.grayline2>ol>li>span{
+    color: #33adbf;
+}
+#footer{
+    margin-top: 403px;
+    border-style: solid;
+    border-color: #0085e0;
+    position: absolute;
+    height: 91px;
+    width: 750px;
+    margin-left: 201px;
+}
+.footer{
+    width: 88px;
+    height: 73px;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+#footer>h6{
+    color: #22659e;
+    margin-top: -77px;
+    margin-left: 123px;
+    font-size: 16px;
+}
+#footer>p{
+    font-size: 13px;
+    margin-left: 123px;
+}
+#footer>p>span{
+    color:  #0085e0;
+}
